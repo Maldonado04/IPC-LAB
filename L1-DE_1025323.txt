@@ -1,0 +1,24 @@
+# Laboratorio de pensamiento computacional sección: 17
+# 5/09/2023
+# Daniel Maldonado
+# OBJETIVO: crear un programa en Python que calcule las 4 operaciones aritméticas básicas
+# ENTRADA: numero1 y numero2
+# PROCESOS "ejecutar cuatro operaciones para n1 y n2"
+# SALIDA: resultados operacioneles
+
+print("mi primer programa")
+numero1= int(input("ingrese algun numero"))
+numero2= int(input("ingrese algun otro numero"))
+
+#división
+división = numero1 / numero2
+print("la división es:", división)
+# multiplicaciòn 
+multi = (numero1 * numero2)
+print("La multiplicaciòn es:",multi)
+# resta
+resta = (numero1 - numero2)
+print("La resta da como resultado:",resta)
+# suma
+suma = (numero1 + numero2 )
+print("La suma da como resultado:" ,suma)
